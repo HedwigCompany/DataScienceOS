@@ -1,6 +1,6 @@
 # DataScienceOS
 Datascience Development Environment 
-## Ubuntu 18.04 Buzushucks Kurulum:
+
 - pip kurulumu:
 ```bash
 sudo apt-get install python3-pip
